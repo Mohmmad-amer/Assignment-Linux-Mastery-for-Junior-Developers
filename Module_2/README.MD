@@ -2,7 +2,7 @@
 #### File Manipulation
 Creating and deleting files and directories with toch and mkdir rm to delete and rm -r for deleting the directory 
 mv for moving and cp for Copies of files and directories, including their content 
-when looking for file/s that end with md for example we use the '/*' example "/*.md"
+when looking for file/s that end with md for example we use the * example *.md
 
 ![Alt text](<Screenshot 2023-12-20 161746.png>)
 
