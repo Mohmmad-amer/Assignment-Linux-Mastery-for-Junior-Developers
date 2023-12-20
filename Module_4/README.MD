@@ -12,7 +12,9 @@
  I have started solitaire put it in the background and played a little with the terminal 
  and come back again and use it as a foreground 
 
-
-![Alt text](<Screenshot 2023-12-20 183117.png>) 
-
+run sol with terminal and stoped it with ctrl z
 ![Alt text](<Screenshot 2023-12-20 183054.png>)
+
+fr for foreground
+and bg for background
+![Alt text](<Screenshot 2023-12-20 183117.png>) 
