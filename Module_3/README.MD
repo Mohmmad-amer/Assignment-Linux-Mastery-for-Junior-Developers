@@ -2,9 +2,13 @@
 #### User accounts**
 I have created account and set password using terminal sudo adduser [name of user]. 
 and switch users using su and sudo in terminal.
+#### create user 
 
-![Alt text](<Screenshot 2023-12-20 165629.png>)
 ![Alt text](<Screenshot 2023-12-20 165057.png>) 
+
+#### switch 
+![Alt text](<Screenshot 2023-12-20 165629.png>)
+
 ![Alt text](<Screenshot 2023-12-20 165556.png>)
 
 ## TASK 6
