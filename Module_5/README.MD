@@ -1,10 +1,10 @@
 ## TASK 9
 #### Package Installation
 In this task i have used sudo apt-get install to install gcc 
-the diffrence between apt and apt-get that apt work with packages that are high level and apt-get work with
-packages more of low level type. 
+the difference between apt and apt-get is that apt works with packages that are high-level level and apt-get works with
+packages more of low-level type. 
 
-#### install the gcc
+#### install the GCC
 
 ![Alt text](<Screenshot 2023-12-21 180123.png>)
 
