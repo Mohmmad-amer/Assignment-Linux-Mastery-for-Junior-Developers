@@ -6,11 +6,11 @@ packages more of low level type.
 
 #### install the gcc
 
-![Alt text](<Screenshot 2023-12-21 180259.png>) 
+![Alt text](<Screenshot 2023-12-21 180123.png>)
 
 #### verify the installation
 
-![Alt text](<Screenshot 2023-12-21 180123.png>)
+![Alt text](<Screenshot 2023-12-21 180259.png>) 
 
 ## TASK 10
 #### System Updates
