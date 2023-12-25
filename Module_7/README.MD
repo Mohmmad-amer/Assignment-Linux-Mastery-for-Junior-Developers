@@ -3,7 +3,7 @@
 
 this was the hardest task I encountered during this Assignment
 in this task, i wrote a shell script that I provided with this folder health_check.sh 
-this script opens a menu where you can perform diffrent type of health checks plus to opitins for security check 
+this script opens a menu where you can perform diffrent type of health checks plus tow opitins for security check 
 
 ![Alt text](<Screenshot 2023-12-26 012014.png>)
 
